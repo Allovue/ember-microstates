@@ -34,7 +34,7 @@
     "babel-eslint": "10.0.1",
     "babel-plugin-transform-class-properties": "6.24.1",
     "broccoli-asset-rev": "^3.0.0",
-    "ember-burger-menu": "3.3.3",
+    "ember-burger-menu": "3.3.4",
     "ember-cli": "~3.7.0",
     "ember-cli-chai": "^0.5.0",
     "ember-cli-dependency-checker": "^3.0.0",
